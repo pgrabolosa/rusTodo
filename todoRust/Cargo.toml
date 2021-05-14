@@ -1,3 +1,9 @@
+[package]
+name = "todoRust"
+version = "0.1.0"
+authors = ["Vincent Greck <vincent.greck@imerir.com>"]
+edition = "2018"
+
 [dependencies]
 anyhow = "1.0" 
 home = "0.5"
